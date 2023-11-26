@@ -17,3 +17,5 @@ This card will work with the following Terasic brand development boards:
 -DE2-115 (although redundant as it already has a 10 bit DAC)
 
 This board was made to practice video processor design and the "graduate" card to this one would be an HDMI serializer chip.
+
+To get this card assembled, zip the contents of the gerber folder and take to your preferential fabrication house.  FR4 processes are recommended.
