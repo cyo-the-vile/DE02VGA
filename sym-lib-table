@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADV7123KSTZ140")(type "KiCad")(uri "C:/Users/cyoke/Documents/GitHub/GBA_VGA/gba_vga parts/ADV7123KSTZ140.kicad_sym")(options "")(descr ""))
+  (lib (name "L17HTHES4F1C")(type "KiCad")(uri "C:/Users/cyoke/Documents/GitHub/GBA_VGA/gba_vga parts/L17HTHES4F1C.kicad_sym")(options "")(descr ""))
+  (lib (name "505110-3291")(type "KiCad")(uri "C:/Users/cyoke/Documents/GitHub/GBA_VGA/gba_vga parts/505110-3291.kicad_sym")(options "")(descr ""))
+)

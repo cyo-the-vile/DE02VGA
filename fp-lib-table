@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "gba_vga parts")(type "KiCad")(uri "C:/Users/cyoke/Documents/GitHub/GBA_VGA/gba_vga parts")(options "")(descr ""))
+)
